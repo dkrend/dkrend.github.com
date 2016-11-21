@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        프로그램 쉽게하기
+tagline:      좀더 게을러지기 위해 노력한다...
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       김두환
+  url:        http://dkrend.github.io
 
 # Gems
 gems:
