@@ -1,12 +1,12 @@
 # Setup
 title:        프로그램 쉽게하기
-tagline:      좀더 게을러지기 위해 노력한다...
+tagline:      첫번째. 나는 게을러 지기 위해 노력한다...
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       김두환
+  name:       dkrend
   url:        http://dkrend.github.io
 
 # Gems
@@ -15,3 +15,7 @@ gems:
 
 #Others
 markdown: kramdown
+highlighter: rouge
+encoding:     "utf-8"
+
+future: true
