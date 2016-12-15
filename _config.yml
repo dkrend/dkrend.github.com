@@ -5,10 +5,10 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
+title:               OO 하는 프로그래머
+tagline:             '오늘도 뭔가를 하는..'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 https://dkrend.github.io
 baseurl:             ''
 paginate:            5
 
@@ -19,4 +19,8 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             0.1
+
+
+
+gems: [jekyll-paginate]
