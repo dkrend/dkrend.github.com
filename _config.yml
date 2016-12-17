@@ -5,7 +5,7 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               게으른 하는 프로그래머
+title:               게으른 프로그래머
 tagline:             '오늘도 더 게을러지기 위해 노력한다 ..'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://dkrend.github.io
