@@ -5,8 +5,8 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               게을러지기 위해 노력하는 프로그래머
-tagline:             '효율적인 진화의 첫걸음 ...'
+title:               철학하는 프로그래머
+tagline:             '인간은 귀차니즘으로 부터 스마트해 진다...'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://dkrend.github.io
 baseurl:             ''
