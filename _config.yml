@@ -5,9 +5,9 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               철학하는 프로그래머
-tagline:             '인간은 귀차니즘으로 부터 스마트해 진다...'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               생각하는 프로그래머
+tagline:             '손보다는 머리를 움직여라!~'
+description:         '겸손할수록 점점더 잘해진다<br> by.어쩌다 프로그래머..'
 url:                 https://dkrend.github.io
 baseurl:             ''
 paginate:            5
@@ -15,8 +15,8 @@ paginate:            5
 # About/contact
 author:
   name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  url:               https://dkrend.github.io
+  email:             kdhboys@hanmail.net
 
 # Custom vars
 version:             0.1
@@ -24,3 +24,4 @@ version:             0.1
 
 
 gems: [jekyll-paginate]
+
