@@ -21,7 +21,5 @@ author:
 # Custom vars
 version:             0.1
 
-
-
 gems: [jekyll-paginate]
 
